@@ -499,15 +499,14 @@ Deployment links:
 
 #  Author
 
-**Sai Lakshmi Yaragarla**
+**madhu babu**
 
 Full-Stack Developer | Python Developer
 
-GitHub: https://github.com/SAIYARAGARLA
+GitHub: https://github.com/madhu babu
 
 ---
 
 ##  License
 
-This project was developed for educational and learning purposes as part of a full-stack development assignment.#   T a s k - M a n a g e r - F u l l - S t a c k - D j a n g o - R e a c t -  
- 
+This project was developed for educational and learning purposes as part of a full-stack development assignment
